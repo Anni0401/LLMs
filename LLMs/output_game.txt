@@ -1,0 +1,6 @@
+WINNER: None , 
+            BOARD:  {'PLANE': 'black', 'BED': 'neutral', 'HAND': 'neutral', 'PIANO': 'neutral', 'ROCK': 'blue', 'PALM': 'red', 'MOUNT': 'red', 'POLICE': 'red', 'LIMOUSINE': 'blue', 'CAPITAL': 'blue', 'CONTRACT': 'red', 'TORCH': 'neutral', 'SLIP': 'neutral', 'ENGINE': 'neutral', 'LEAD': 'black', 'WAR': 'blue', 'TOKYO': 'blue', 'KETCHUP': 'blue', 'MOSCOW': 'blue', 'LOG': 'red', 'MASS': 'red', 'ROOT': 'red', 'FLUTE': 'blue', 'KANGAROO': 'neutral', 'WITCH': 'red'} , 
+            Guesses RED:defaultdict(<class 'list'>, {'TREE 3': ["{'query': 'ROOT'}", "{'query': 'LOG'}", "{'query': 'PALM'}"], 'LAW 2': ["{'query': 'POLICE'}", "{'query': 'CONTRACT'}"], 'MAGIC 2': ["{'query': 'WITCH'}", "{'query': 'MOUNT'}"]}) , 
+            Guesses BLUE:defaultdict(<class 'list'>, {'CITY 3': ["{'query': 'TOKYO'}", "{'query': 'MOSCOW'}", "{'query': 'CAPITAL'}"], 'RED 2': ["{'query': 'TORCH'}", "{'query': 'KETCHUP'}", "{'query': 'KETCHUP'}", "{'query': 'ROCK'}"]}) , 
+            Right Guesses 12, 
+            Wrong Guesses 1
