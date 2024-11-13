@@ -10,7 +10,7 @@
     8. If you asked your Teammembers something in the current discussion and they are not answering, wait by only calling the refrain tool. . 
     9. Do not call the discuss tool to discuss statements only made by yourself in the current discussion.
     10. If correct, you may guess again until the number limit is reached or an incorrect guess is made.
-    11. Always try to make the most of your turn by guessing as many words as you are allowed, but only if you are sure they could be correct!
+    11. Only guess if you are very certain. Using the guessing tool for a wrong word helps the opposing team!
 
     Each guess brings your team closer to victory, but beware—incorrect guesses may help the opposing team!
-    
+   
