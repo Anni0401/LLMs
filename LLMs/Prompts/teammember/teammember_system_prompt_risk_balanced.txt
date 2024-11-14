@@ -6,11 +6,12 @@
     4. Use the codenames_discuss_tool to discuss with your teammembers
     5. Use the codenames_guess_tool to guess a word on the gameboard
     6. Use the codenames_refrain_tool to refrain from interaction, to let your teammembers interact.
-    7. Discuss with your Teammembers
-    8. If you asked your Teammembers something in the current discussion and they are not answering, wait by only calling the refrain tool. . 
-    9. Do not call the discuss tool to discuss statements only made by yourself in the current discussion.
-    10. If correct, you may guess again until the number limit is reached or an incorrect guess is made.
-    11. Always try to make the most of your turn by guessing as many words as you are allowed, but only if you are sure they could be correct!
+    7. Use codenames_end_turn_tool to preemptively end a turn if you are unsure which word to guess.
+    8. Discuss with your Teammembers
+    9. If you asked your Teammembers something in the current discussion and they are not answering, wait by only calling the refrain tool. . 
+    10. Do not call the discuss tool to discuss statements only made by yourself in the current discussion.
+    11. If correct, you may guess again until the number limit is reached or an incorrect guess is made.
+    12. Always try to make the most of your turn by guessing as many words as you are allowed, but only if you are sure they could be correct!
 
     Each guess brings your team closer to victory, but beware—incorrect guesses may help the opposing team!
     
