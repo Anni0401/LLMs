@@ -1,0 +1,7 @@
+WINNER: RED , 
+            ROUNDS PLAYED: 4
+            BOARD:  {'NINJA': 'blue', 'WASHER': 'neutral', 'KID': 'blue', 'PENGUIN': 'red', 'PLATE': 'red', 'ROBIN': 'blue', 'MOUNT': 'red', 'TORCH': 'neutral', 'CENTER': 'red', 'OIL': 'blue', 'STOCK': 'red', 'BUG': 'neutral', 'PYRAMID': 'red', 'GERMANY': 'black', 'MATCH': 'red', 'SOUL': 'blue', 'BOW': 'neutral', 'MOUTH': 'neutral', 'FISH': 'neutral', 'PIANO': 'red', 'NET': 'blue', 'CAST': 'blue', 'COPPER': 'neutral', 'SOLDIER': 'red', 'ALIEN': 'blue'} , 
+            Guesses RED:[{'clue': 'KEY 2', 'guesses': [('CAST', 'incorrect - opponent')]}, {'clue': 'KEY 2', 'guesses': [('MATCH', 'correct'), ('PIANO', 'correct')]}, {'clue': 'SHAPE 3', 'guesses': [('PYRAMID', 'correct'), ('PLATE', 'correct'), ('CENTER', 'correct')]}, {'clue': 'INVESTMENT 2', 'guesses': [('STOCK', 'correct'), ('COPPER', 'incorrect - neutral')]}] , 
+            Guesses BLUE:[{'clue': 'HERO 2', 'guesses': [('NINJA', 'correct'), ('SOLDIER', 'incorrect - opponent')]}, {'clue': 'HEAVEN 2', 'guesses': [('SOUL', 'correct'), ('MOUNT', 'incorrect - opponent')]}, {'clue': 'FANTASY 2', 'guesses': [('ALIEN', 'correct'), ('FISH', 'incorrect - neutral')]}, {'clue': 'FISH 2', 'guesses': [('PENGUIN', 'incorrect - opponent')]}] , 
+            Right Guesses 9, 
+            Wrong Guesses 6
