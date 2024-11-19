@@ -1,0 +1,7 @@
+WINNER: RED , 
+            ROUNDS PLAYED: 4
+            BOARD:  {'HORSE': 'neutral', 'MOUSE': 'blue', 'KING': 'red', 'BRUSH': 'red', 'KANGAROO': 'red', 'NUT': 'neutral', 'BLOCK': 'blue', 'MAPLE': 'red', 'BELL': 'blue', 'LEAD': 'blue', 'HORN': 'red', 'TABLET': 'neutral', 'NET': 'red', 'SOCK': 'blue', 'SCALE': 'red', 'THIEF': 'blue', 'ORANGE': 'neutral', 'HOSPITAL': 'neutral', 'PLASTIC': 'black', 'STRIKE': 'neutral', 'ALIEN': 'red', 'OPERA': 'neutral', 'LAWYER': 'red', 'NOVEL': 'blue', 'PRESS': 'blue'} , 
+            Guesses RED:[{'clue': 'AUSTRALIA 1', 'guesses': [('KANGAROO', 'correct')]}, {'clue': 'MUSIC 2', 'guesses': [('HORN', 'correct'), ('BELL', 'incorrect - opponent')]}, {'clue': 'SPACE 2', 'guesses': [('ALIEN', 'correct'), ('NET', 'correct')]}, {'clue': 'TREE 1', 'guesses': [('MAPLE', 'correct')]}] , 
+            Guesses BLUE:[{'clue': 'WRITING 2', 'guesses': [('BRUSH', 'incorrect - opponent')]}, {'clue': 'CRIME 2', 'guesses': [('THIEF', 'correct'), ('LAWYER', 'incorrect - opponent')]}, {'clue': 'WRITING 2', 'guesses': [('LEAD', 'correct'), ('LEAD', 'incorrect - opponent')]}, {'clue': 'FIBER 2', 'guesses': [('SOCK', 'correct'), ('PLASTIC', 'incorrect - black')]}] , 
+            Right Guesses 8, 
+            Wrong Guesses 5

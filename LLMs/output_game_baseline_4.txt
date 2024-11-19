@@ -1,0 +1,7 @@
+WINNER: BLUE , 
+            ROUNDS PLAYED: 5
+            BOARD:  {'HAND': 'neutral', 'LINK': 'blue', 'BOMB': 'red', 'VAN': 'neutral', 'EYE': 'blue', 'CLIFF': 'blue', 'ROBOT': 'red', 'LAP': 'neutral', 'CIRCLE': 'neutral', 'GROUND': 'blue', 'WEB': 'red', 'WAVE': 'red', 'MAIL': 'red', 'DRILL': 'red', 'BARK': 'red', 'DWARF': 'neutral', 'BAND': 'red', 'FACE': 'blue', 'WELL': 'blue', 'SATELLITE': 'neutral', 'CAP': 'red', 'WORM': 'neutral', 'RACKET': 'blue', 'LEAD': 'black', 'RAY': 'blue'} , 
+            Guesses RED:[{'clue': 'Sound 2', 'guesses': [('BARK', 'correct'), ('DRILL', 'correct')]}, {'clue': 'ELECTRONIC 2', 'guesses': [('WEB', 'correct'), ('ROBOT', 'correct')]}, {'clue': 'POST 1', 'guesses': [('MAIL', 'correct')]}, {'clue': 'Music 2', 'guesses': [('BAND', 'correct'), ('HAND', 'incorrect - neutral')]}, {'clue': 'Explosive 1', 'guesses': [('BOMB', 'correct')]}] , 
+            Guesses BLUE:[{'clue': 'VIEW 3', 'guesses': [('EYE', 'correct'), ('FACE', 'correct'), ('CLIFF', 'correct')]}, {'clue': 'SPORT 2', 'guesses': [('RACKET', 'correct'), ('RACKET', 'incorrect - opponent')]}, {'clue': 'DEEP 2', 'guesses': [('WELL', 'correct'), ('GROUND', 'correct')]}, {'clue': 'LIGHT 2', 'guesses': [('RAY', 'correct'), ('WAVE', 'incorrect - opponent')]}, {'clue': 'CHAIN 1', 'guesses': [('LINK', 'correct')]}] , 
+            Right Guesses 15, 
+            Wrong Guesses 3

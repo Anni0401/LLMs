@@ -1,0 +1,7 @@
+WINNER: BLUE , 
+            ROUNDS PLAYED: 5
+            BOARD:  {'TELESCOPE': 'blue', 'CENTER': 'blue', 'MUG': 'blue', 'ROOT': 'blue', 'AFRICA': 'neutral', 'LONDON': 'blue', 'CARD': 'black', 'GAME': 'red', 'HORN': 'red', 'SPIKE': 'neutral', 'CHEST': 'neutral', 'LIMOUSINE': 'neutral', 'CIRCLE': 'blue', 'STAFF': 'red', 'TRIANGLE': 'red', 'GERMANY': 'blue', 'AMERICA': 'neutral', 'AGENT': 'blue', 'CAPITAL': 'red', 'STREAM': 'red', 'MARCH': 'neutral', 'PLASTIC': 'neutral', 'NUT': 'red', 'RULER': 'red', 'LEPRECHAUN': 'red'} , 
+            Guesses RED:[{'clue': 'MUSICAL 2', 'guesses': [('HORN', 'correct'), ('SPIKE', 'incorrect - neutral')]}, {'clue': 'GEOMETRY 3', 'guesses': [('CIRCLE', 'incorrect - opponent')]}, {'clue': 'SHAPE 3', 'guesses': [('TRIANGLE', 'correct'), ('RULER', 'correct'), ('ROOT', 'incorrect - opponent')]}, {'clue': 'IRISH 1', 'guesses': [('LEPRECHAUN', 'correct')]}, {'clue': 'TREE 1', 'guesses': [('CHEST', 'incorrect - neutral')]}] , 
+            Guesses BLUE:[{'clue': 'EUROPE 2', 'guesses': [('LONDON', 'correct'), ('GERMANY', 'correct')]}, {'clue': 'CUP 1', 'guesses': [('MUG', 'correct')]}, {'clue': 'SPY 1', 'guesses': [('AGENT', 'correct'), ('STAFF', 'incorrect - opponent')]}, {'clue': 'Middle 2', 'guesses': [('CENTER', 'correct'), ('MIDDLE', 'incorrect - opponent')]}, {'clue': 'SPACE 1', 'guesses': [('TELESCOPE', 'correct')]}] , 
+            Right Guesses 10, 
+            Wrong Guesses 6

@@ -1,0 +1,7 @@
+WINNER: RED , 
+            ROUNDS PLAYED: 3
+            BOARD:  {'HOTEL': 'neutral', 'ROUND': 'blue', 'PILOT': 'neutral', 'ANTARCTICA': 'red', 'BOND': 'neutral', 'PAN': 'red', 'BUTTON': 'blue', 'RING': 'blue', 'VACUUM': 'blue', 'DOG': 'red', 'ROSE': 'blue', 'BEACH': 'red', 'CLOAK': 'red', 'JET': 'blue', 'TRIP': 'black', 'BOX': 'blue', 'FLY': 'blue', 'FILM': 'red', 'ORANGE': 'red', 'MINT': 'red', 'CAT': 'neutral', 'KEY': 'neutral', 'RACKET': 'neutral', 'LION': 'red', 'TABLE': 'neutral'} , 
+            Guesses RED:[{'clue': 'FURRY 2', 'guesses': [('DOG', 'correct'), ('CAT', 'incorrect - neutral')]}, {'clue': 'COLD 2', 'guesses': [('ANTARCTICA', 'correct'), ('MINT', 'correct')]}, {'clue': 'CINEMA 2', 'guesses': [('FILM', 'correct'), ('BOND', 'incorrect - neutral')]}] , 
+            Guesses BLUE:[{'clue': 'CIRCLE 3', 'guesses': [('ROUND', 'correct'), ('RING', 'correct'), ('BUTTON', 'correct'), ('PILOT', 'incorrect - neutral')]}, {'clue': 'FLOWER 1', 'guesses': [('ROSE', 'correct')]}, {'clue': 'AIR 3', 'guesses': [('JET', 'correct'), ('FLY', 'correct'), ('TRIP', 'incorrect - black')]}] , 
+            Right Guesses 10, 
+            Wrong Guesses 4
