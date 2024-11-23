@@ -1,0 +1,5 @@
+# Environment
+.env
+
+# API keys json
+api_keys.json
