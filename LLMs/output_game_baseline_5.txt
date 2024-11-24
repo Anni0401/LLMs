@@ -1,7 +1,0 @@
-WINNER: RED , 
-            ROUNDS PLAYED: 1
-            BOARD:  {'KING': 'neutral', 'SLIP': 'red', 'PARK': 'blue', 'BELL': 'neutral', 'BOLT': 'red', 'PRINCESS': 'red', 'COOK': 'blue', 'OLIVE': 'red', 'BRIDGE': 'neutral', 'LASER': 'neutral', 'PART': 'red', 'BUFFALO': 'red', 'PIRATE': 'black', 'FALL': 'blue', 'ROULETTE': 'blue', 'APPLE': 'blue', 'THIEF': 'blue', 'LEAD': 'blue', 'HAWK': 'red', 'OPERA': 'neutral', 'POLE': 'red', 'PANTS': 'blue', 'SWING': 'neutral', 'SCALE': 'neutral', 'WIND': 'red'} , 
-            Guesses RED:[{'clue': 'WILD 2', 'guesses': [('HAWK', 'correct'), ('BUFFALO', 'correct')]}] , 
-            Guesses BLUE:[{'clue': 'CRIME 2', 'guesses': [('THIEF', 'correct'), ('PIRATE', 'incorrect - black')]}] , 
-            Right Guesses 3, 
-            Wrong Guesses 1

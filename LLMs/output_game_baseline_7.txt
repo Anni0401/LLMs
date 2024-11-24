@@ -1,7 +1,0 @@
-WINNER: BLUE , 
-            ROUNDS PLAYED: 5
-            BOARD:  {'SCORPION': 'blue', 'FAN': 'black', 'FALL': 'red', 'PANTS': 'red', 'UNDERTAKER': 'red', 'PLOT': 'red', 'PISTOL': 'neutral', 'MOUTH': 'red', 'WALL': 'red', 'GRACE': 'red', 'GAME': 'blue', 'KEY': 'neutral', 'FOREST': 'blue', 'BOARD': 'neutral', 'WIND': 'red', 'DIAMOND': 'neutral', 'POUND': 'neutral', 'COURT': 'blue', 'CONTRACT': 'blue', 'SPY': 'neutral', 'CARROT': 'red', 'BATTERY': 'neutral', 'BILL': 'blue', 'SCREEN': 'blue', 'BACK': 'blue'} , 
-            Guesses RED:[{'clue': 'Garden 2', 'guesses': [('CARROT', 'correct'), ('PLOT', 'correct')]}, {'clue': 'EDGE 2', 'guesses': [('SCORPION', 'incorrect - opponent')]}, {'clue': 'EDGE 2', 'guesses': [('WALL', 'correct'), ('FOREST', 'incorrect - opponent')]}, {'clue': 'CLOTHES 2', 'guesses': [('PANTS', 'correct'), ('UNDERTAKER', 'correct')]}, {'clue': 'BLOW 2', 'guesses': [('FAN', 'incorrect - black')]}] , 
-            Guesses BLUE:[{'clue': 'LAW 3', 'guesses': [('COURT', 'correct'), ('POUND', 'incorrect - neutral')]}, {'clue': 'Law 2', 'guesses': [('PISTOL', 'incorrect - neutral')]}, {'clue': 'PLAY 2', 'guesses': [('GAME', 'correct'), ('BOARD', 'incorrect - neutral')]}, {'clue': 'PAY 2', 'guesses': [('BILL', 'correct'), ('CONTRACT', 'correct')]}] , 
-            Right Guesses 9, 
-            Wrong Guesses 6

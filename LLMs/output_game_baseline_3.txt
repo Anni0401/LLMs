@@ -1,7 +1,0 @@
-WINNER: BLUE , 
-            ROUNDS PLAYED: 6
-            BOARD:  {'FOOT': 'red', 'UNICORN': 'blue', 'LITTER': 'red', 'EUROPE': 'red', 'CIRCLE': 'neutral', 'TIE': 'neutral', 'MUG': 'blue', 'WORM': 'neutral', 'BEACH': 'neutral', 'DATE': 'neutral', 'SEAL': 'blue', 'DECK': 'blue', 'HOTEL': 'blue', 'LAWYER': 'red', 'CAR': 'blue', 'LASER': 'red', 'TABLET': 'red', 'MOON': 'neutral', 'LEMON': 'red', 'BAT': 'red', 'FORK': 'blue', 'PLOT': 'red', 'GAS': 'neutral', 'LIGHT': 'blue', 'BOOM': 'black'} , 
-            Guesses RED:[{'clue': 'CITRUS 1', 'guesses': [('LEMON', 'correct')]}, {'clue': 'ANIMAL 2', 'guesses': [('UNICORN', 'incorrect - opponent')]}, {'clue': 'ANIMAL 2', 'guesses': [('SEAL', 'incorrect - opponent')]}, {'clue': 'ANIMAL 2', 'guesses': [('BAT', 'correct'), ('PLOT', 'correct')]}, {'clue': 'LEGAL 2', 'guesses': [('LAWYER', 'correct'), ('DECK', 'incorrect - opponent')]}, {'clue': 'TRASH 2', 'guesses': [('LITTER', 'correct'), ('GAS', 'incorrect - neutral')]}] , 
-            Guesses BLUE:[{'clue': 'ANIMAL 3', 'guesses': [('WORM', 'incorrect - neutral')]}, {'clue': 'Table 2', 'guesses': [('MUG', 'correct'), ('FORK', 'correct')]}, {'clue': 'TRAVEL 3', 'guesses': [('BEACH', 'incorrect - neutral')]}, {'clue': 'TRAVEL 3', 'guesses': [('CAR', 'correct'), ('EUROPE', 'incorrect - opponent')]}, {'clue': 'BRIGHT 2', 'guesses': [('LIGHT', 'correct'), ('LASER', 'incorrect - opponent')]}, {'clue': 'ACCOMMODATION 1', 'guesses': [('HOTEL', 'correct')]}] , 
-            Right Guesses 10, 
-            Wrong Guesses 8
