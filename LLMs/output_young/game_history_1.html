@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Codenames Game Replay</title>
+  <style>
+    /* General Styles */
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f4f4f9;
+      margin: 20px;
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .header h1 {
+      color: #333;
+    }
+    .board {
+      margin: 20px auto;
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 10px;
+      max-width: 600px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #fff;
+    }
+    .card {
+      text-align: center;
+      padding: 10px;
+      border-radius: 5px;
+      color: #fff;
+      font-weight: bold;
+    }
+    .red { background-color: #ff6b6b; }
+    .blue { background-color: #4dabf7; }
+    .neutral { background-color: #adb5bd; color: #333; }
+    .black { background-color: #333; }
+    .log {
+      margin: 20px auto;
+      padding: 15px;
+      background-color: #e9ecef;
+      border-radius: 10px;
+      max-width: 700px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    .spymaster-blue, .guesser-blue, .spymaster-red, .guesser-red, .system {
+      padding: 10px;
+      border-radius: 5px;
+      margin-bottom: 10px;
+    }
+    .spymaster-blue { background-color: #5f74de; }
+    .guesser-blue { background-color: #b3d4fc; }
+    .spymaster-red { background-color: #d14b59; }
+    .guesser-red { background-color: #ffc9c9; }
+    .system {
+      text-align: center;
+      font-weight: bold;
+      color: #333;
+      margin-top: 20px;
+      background-color: #b0b0b0;
+    }
+  p {
+    margin: 0;  /* Remove default margin around paragraphs */
+    padding: 0; /* Optional: remove any padding, if necessary */
+  }
+  </style>
+</head>
+<body>
+<div class="header">
+  <h1>Codenames Game Replay</h1>
+  <h2>Team Blue: 2 guessers with baseline prompt<br/>Team Red: 2 guessers with 'young' prompt</h2>
+</div>
+<div class="board">
+<div class="card red">CHEST</div><div class="card blue">RING</div><div class="card blue">WAVE</div><div class="card red">BERRY</div><div class="card red">FILE</div><div class="card red">CAT</div><div class="card blue">PART</div><div class="card black">WATCH</div><div class="card blue">NAIL</div><div class="card red">OIL</div><div class="card blue">SPIKE</div><div class="card blue">LEMON</div><div class="card red">DOG</div><div class="card neutral">BUG</div><div class="card neutral">PANTS</div><div class="card blue">AZTEC</div><div class="card neutral">LINE</div><div class="card neutral">MISSILE</div><div class="card neutral">SERVER</div><div class="card red">WATER</div><div class="card blue">WEB</div><div class="card red">AGENT</div><div class="card neutral">TAG</div><div class="card red">MOUTH</div><div class="card neutral">FOOT</div></div><div class="spymaster-red"><strong>Spymaster - Clue:</strong> PET, 2</div><div class="guesser-red"><strong>guesser_RED_2 - Discuss:</strong><p>I think PET could relate to CAT and DOG, both are on the board. What do you think, teammember_RED_1?</p></div><div class="guesser-red"><strong>guesser_RED_1 - Discuss:</strong><p>I agree, CAT and DOG are both strong possibilities. I also think we should consider other animals that could be pets, but since those are the only two on the board, let's focus on those. Should we guess one or both?</p></div><div class="guesser-red"><strong>guesser_RED_2 - Discuss:</strong><p>I think we should guess one for now, to minimize the risk. How about we start with CAT?</p></div><div class="guesser-red"><strong>guesser_RED_1 - Guess:</strong><p>CAT</p><p><strong>Outcome:</strong> correct</p></div><div class="guesser-red"><strong>guesser_RED_2 - Guess:</strong><p>DOG</p><p><strong>Outcome:</strong> correct</p></div><div class="spymaster-blue"><strong>Spymaster - Clue:</strong> FINGER, 2</div><div class="guesser-blue"><strong>guesser_BLUE_2 - Discuss:</strong><p>I think the hint FINGER could relate to words that are associated with hands or fingers. What are your thoughts, teammember_BLUE_1?</p></div><div class="guesser-blue"><strong>guesser_BLUE_1 - Discuss:</strong><p>I agree, FINGER could relate to words associated with hands or fingers. I think we should look for words that are directly related to fingers or hands. I see RING and NAIL on the board, which could be potential targets.</p></div><div class="guesser-blue"><strong>guesser_BLUE_2 - Discuss:</strong><p>I also see RING and NAIL as potential targets. What do you think about WATCH? It is also related to hands.</p></div><div class="guesser-blue"><strong>guesser_BLUE_1 - Discuss:</strong><p>I agree that WATCH is a good option, but I think we should prioritize RING and NAIL since they have a more direct relation to fingers. What do you think about guessing RING first?</p></div><div class="guesser-blue"><strong>guesser_BLUE_2 - Guess:</strong><p>RING</p><p><strong>Outcome:</strong> correct</p></div><div class="guesser-blue"><strong>guesser_BLUE_1 - Guess:</strong><p>NAIL</p><p><strong>Outcome:</strong> correct</p></div><div class="spymaster-red"><strong>Spymaster - Clue:</strong> BODY, 2</div><div class="guesser-red"><strong>guesser_RED_1 - Discuss:</strong><p>I think the hint BODY could relate to WATCH as in a watch on the body, and also to MOUTH as in a part of the body. What do you think, teammember_RED_2?</p></div><div class="guesser-red"><strong>guesser_RED_2 - Discuss:</strong><p>I agree with WATCH and MOUTH, but I also think FOOT could be a good guess since it is also a part of the body. What do you think about FOOT?</p></div><div class="guesser-red"><strong>guesser_RED_1 - Guess:</strong><p>WATCH</p><p><strong>Outcome:</strong> incorrect - black</p></div><div class="system">Team BLUE wins!</div>
+</body>
+</html>
