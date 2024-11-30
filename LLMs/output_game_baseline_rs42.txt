@@ -1,8 +1,0 @@
-Rounds Played 5
-WINNER: RED , 
-            BOARD:  {'OIL': 'red', 'IVORY': 'red', 'STADIUM': 'blue', 'BOOM': 'neutral', 'TAIL': 'blue', 'BOMB': 'black', 'GROUND': 'neutral', 'COMPOUND': 'blue', 'KID': 'red', 'CLOAK': 'blue', 'SKYSCRAPER': 'blue', 'BLOCK': 'blue', 'GENIUS': 'red', 'IRON': 'red', 'RULER': 'neutral', 'WORM': 'red', 'SHARK': 'neutral', 'FLY': 'red', 'PILOT': 'blue', 'OLYMPUS': 'neutral', 'KETCHUP': 'blue', 'THIEF': 'neutral', 'ICE CREAM': 'red', 'CAR': 'neutral', 'LAWYER': 'red'} , 
-            Guesses RED:[{'clue': 'Metal 2', 'guesses': [('IRON', 'correct'), ('RULER', 'incorrect - neutral')]}, {'clue': 'WHITE 2', 'guesses': [('IVORY', 'correct'), ('ICE CREAM', 'correct')]}, {'clue': 'INSECT 2', 'guesses': [('FLY', 'correct'), ('WORM', 'correct')]}, {'clue': 'INTELLIGENCE 2', 'guesses': [('GENIUS', 'correct'), ('LAWYER', 'correct')]}, {'clue': 'YOUTH 1', 'guesses': [('KID', 'correct')]}] , 
-            Guesses BLUE:[{'clue': 'BUILDING 3', 'guesses': [('SKYSCRAPER', 'correct'), ('STADIUM', 'correct')]}, {'clue': 'COVER 3', 'guesses': [('CLOAK', 'correct'), ('BLOCK', 'correct'), ('GROUND', 'incorrect - neutral')]}, {'clue': 'FLY 2', 'guesses': [('PILOT', 'correct'), ('SHARK', 'incorrect - neutral')]}, {'clue': 'SAUCE 2', 'guesses': [('KETCHUP', 'correct'), ('OIL', 'incorrect - opponent')]}] , 
-            Right Guesses 14, 
-            Wrong Guesses 4
-            Rounds Played 5
